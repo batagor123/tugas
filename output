@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  cout << "I am learning C++";
+  return 0;
+}
+C:\Users\SMKBINAMANDIRI_8\Desktop>g++ tes3.cpp -o t.exe
+
+C:\Users\SMKBINAMANDIRI_8\Desktop>t
+Hello World!I am learning C++
+C:\Users\SMKBINAMANDIRI_8\Desktop>

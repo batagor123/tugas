@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int myNum = 15;
+  cout << myNum;
+  return 0;
+}
+C:\Users\SMKBINAMANDIRI_8\Desktop>g++ karin.cpp -o karin.exe
+
+C:\Users\SMKBINAMANDIRI_8\Desktop>karin
+15

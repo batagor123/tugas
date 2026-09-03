@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+void myFunction() {
+  cout << "I just got executed!";
+}
+
+int main() {
+  myFunction();
+  return 0;
+}
+C:\Users\SMKBINAMANDIRI_8\Desktop>g++ keonho.cpp -o keonho.exe
+
+C:\Users\SMKBINAMANDIRI_8\Desktop>keonho
+I just got executed!
